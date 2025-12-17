@@ -1,0 +1,40 @@
+Terms of Service
+Last updated: 2024-12-12
+Contact: dinhphonghh@gmail.com
+
+1. Acceptance of Terms
+By accessing or using this service, you agree to be bound by these Terms of Service. If you do not agree to these terms, you must not use the service.
+2. Description of the Service
+The service provides user authentication (including Google/Facebook Login) and content rewriting features via the /rewrite API, based on the inputs you provide.
+3. Accounts and Access
+You are responsible for maintaining the confidentiality of your account and any access credentials.
+You agree to provide accurate information where required and to keep it up to date.
+You are responsible for all activities that occur under your account.
+4. User Content
+You retain ownership of the content you submit to the service.
+You grant us permission to process your content solely for the purpose of providing the service (e.g., generating rewritten output, logging for security and troubleshooting).
+You represent that you have the necessary rights to submit the content and that it does not violate any laws or third-party rights.
+5. Prohibited Uses
+You agree not to:
+Use the service for unlawful, harmful, fraudulent, or abusive purposes.
+Attempt to bypass authentication, rate limits, or other security mechanisms.
+Interfere with or disrupt the service, servers, or networks (including attempting denial-of-service attacks).
+Access or attempt to access data belonging to other users without authorization.
+6. Third-Party Services
+The service may rely on third-party providers (e.g., identity providers, hosting, AI model providers) to operate. Your use of those third-party services may also be subject to their terms and policies.
+7. Privacy
+Our collection and use of personal data are described in our Privacy Policy. By using the service, you consent to the data practices described there.
+8. Service Availability and Changes
+We may modify, suspend, or discontinue any part of the service at any time.
+We do not guarantee uninterrupted or error-free operation.
+9. Disclaimer
+The service is provided on an “as is” and “as available” basis. We disclaim all warranties to the maximum extent permitted by law, including implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
+10. Limitation of Liability
+To the maximum extent permitted by law, we will not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of data, profits, or revenues arising from your use of the service.
+11. Termination
+We may suspend or terminate your access to the service if we reasonably believe you have violated these terms or if required by law.
+12. Governing Law
+These terms are governed by applicable laws. Where required, disputes will be handled by the competent courts.
+13. Contact
+If you have questions about these Terms of Service or want to request account/data deletion, contact: dinhphonghh@gmail.com.
+
