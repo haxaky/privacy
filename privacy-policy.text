@@ -1,0 +1,39 @@
+# Chính sách quyền riêng tư (Privacy Policy)
+
+**Cập nhật:** 2024-12-12
+**Liên hệ:** dinhphonghh@gmail.com
+
+## 1. Thông tin chúng tôi thu thập
+- Họ tên, email, ảnh đại diện do bạn cấp quyền qua Google hoặc Facebook.
+- Thông tin đăng nhập kỹ thuật (token đăng nhập nội bộ, token OAuth của nhà cung cấp) để duy trì phiên làm việc.
+- Nội dung bạn gửi lên API `/rewrite` (script, tone, word_range, content_goal, target_audience, style_notes) và kết quả trả về.
+- Thông tin kỹ thuật: địa chỉ IP, user agent, thời gian truy cập, log lỗi hệ thống.
+
+## 2. Mục đích sử dụng
+- Xác thực và duy trì phiên đăng nhập.
+- Cung cấp dịch vụ viết lại nội dung theo yêu cầu của bạn.
+- Ghi log và giám sát để bảo mật, chống lạm dụng, cải thiện chất lượng dịch vụ.
+
+## 3. Lưu trữ và thời gian lưu
+- Thông tin tài khoản, phiên làm việc, log yêu cầu `/rewrite` được lưu trong cơ sở dữ liệu của chúng tôi (PostgreSQL).
+- Thời gian lưu trữ được giới hạn theo nhu cầu vận hành và tuân thủ pháp luật; bạn có thể yêu cầu xóa dữ liệu như mô tả tại Mục 6.
+
+## 4. Chia sẻ dữ liệu
+- Chúng tôi không bán dữ liệu cá nhân cho bên thứ ba.
+- Dữ liệu có thể được chia sẻ với nhà cung cấp dịch vụ hạ tầng (ví dụ: nhà cung cấp mô hình AI, dịch vụ hosting) chỉ để thực hiện chức năng của dịch vụ.
+- Cơ quan nhà nước có thẩm quyền có thể được cung cấp dữ liệu theo yêu cầu pháp lý.
+
+## 5. Bảo mật
+- Yêu cầu sử dụng HTTPS khi truy cập dịch vụ.
+- Token nhạy cảm được lưu trữ dưới dạng mã hóa hoặc hash.
+- CORS, rate-limit và cơ chế xác thực được áp dụng để giảm thiểu lạm dụng.
+
+## 6. Quyền của bạn
+- Yêu cầu truy cập, chỉnh sửa hoặc xóa dữ liệu cá nhân.
+- Thu hồi quyền truy cập hoặc xóa tài khoản bằng cách liên hệ tại địa chỉ email ở đầu tài liệu.
+
+## 7. Thay đổi chính sách
+- Chính sách có thể được cập nhật định kỳ. Khi có thay đổi quan trọng, chúng tôi sẽ thông báo qua kênh thích hợp (ví dụ: email hoặc thông báo trong ứng dụng).
+
+## 8. Liên hệ
+Mọi yêu cầu hoặc thắc mắc, vui lòng liên hệ: **dinhphonghh@gmail.com**.
